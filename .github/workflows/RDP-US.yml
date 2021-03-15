@@ -1,9 +1,9 @@
-name: CI
+name: DF
 
 on: workflow_dispatch
 
 jobs:
-  build:
+  Suild:
 
     runs-on: windows-latest
     timeout-minutes: 9999
